@@ -29,3 +29,5 @@ Display all the lines in the file /etc/passwd that do not contain the pattern â€
 20. Create a script that removes all letters c and C from input.
 21. Write a script that reverse its input.
 22. Write a script that displays all users and their home directories, sorted by users.
+100. Write a command that finds all empty files and directories in the current directory and all sub-directories.
+101. Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
